@@ -1,0 +1,13 @@
+{
+  "name": "practica-ci",
+  "version": "1.0.0",
+  "main": "suma.js",
+  "scripts": {
+    "test": "jest"
+  },
+  
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
